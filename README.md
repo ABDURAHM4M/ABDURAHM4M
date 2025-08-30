@@ -1,5 +1,7 @@
 👋 Hi, I’m Abdurahman Ahmed
+
 📊 Aspiring Data Analyst | Passionate about turning raw data into actionable insights
+
 🚀 About Me
 I’m building my career in Data Analytics, with strong interest in Financial Operations (FinOps) and business decision-making through data. Skilled in SQL, Python, Excel, and Power BI, I enjoy solving real-world problems with clean, structured, and meaningful analysis.
 📂 Projects
