@@ -1,6 +1,6 @@
 👋 Hi, I’m Abdurahman Ahmed
 
-📊 Aspiring Data Analyst | Passionate about turning raw data into actionable insights
+📊 Operations / Logistics Data Analyst • SQL | Python | Power BI • ETL, KPI Dashboards, Streamlit
 
 🚀 About Me
 
