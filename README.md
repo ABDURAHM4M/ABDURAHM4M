@@ -28,6 +28,4 @@ Other: Git/GitHub, basic statistics
 
 🌍 LinkedIn
 
-💻 GitHub
-
 ✉️ Email: abdurahm4n.ahmed@gmail.com
